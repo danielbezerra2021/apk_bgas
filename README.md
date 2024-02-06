@@ -11,3 +11,5 @@ Apos a desativação baixar os apks no celular
 ********************************************************************
 
 1. entra no link do git hub
+https://github.com/danielbezerra2021/apk_bgas
+2. baixa o apk referente a filial
